@@ -1,5 +1,12 @@
 # Single-page-Website-Demo
 
-Single page website
-Made using JavaScript, HTML, CSS, PHP and Bootstrap
-Includes a contact form and is responsive
+# About
+Single page website made using Python designed for a business.
+
+# Dependencies
+*Python
+*JavaScript
+*HTML 
+*CSS 
+*PHP
+*Bootstrap
